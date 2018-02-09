@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/kubernetes-dashboard:1.8.2
+FROM gcr.io/google-containers/kubernetes-dashboard:canary
 MAINTAINER 3vil <3vil.cc>
